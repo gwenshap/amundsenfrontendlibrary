@@ -7,6 +7,7 @@
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/amundsen-frontend.svg)](https://pypi.org/project/amundsen-frontend/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 [![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://bit.ly/2FVq37z)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgwenshap%2Famundsenfrontendlibrary.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgwenshap%2Famundsenfrontendlibrary?ref=badge_shield)
 
 Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data. It does that today by indexing data resources (tables, dashboards, streams, etc.) and powering a page-rank style search based on usage patterns (e.g. highly queried tables show up earlier than less queried tables). Think of it as Google search for data. The project is named after Norwegian explorer [Roald Amundsen](https://en.wikipedia.org/wiki/Roald_Amundsen), the first person to discover South Pole.
 
@@ -53,3 +54,6 @@ Please visit [Developer guidelines](docs/developer_guide.md) if you want to buil
 
 # License
 [Apache 2.0 License.](/LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgwenshap%2Famundsenfrontendlibrary.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgwenshap%2Famundsenfrontendlibrary?ref=badge_large)
